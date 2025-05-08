@@ -10,5 +10,22 @@ public class code1 {
             tabla[i] = rand.nextInt(100);
             System.out.println(tabla[i]);
         }
+
+        for (int i = 0; i < tabla.length - 1; i++) {
+            for (int j = 0; j < tabla.length - i - 1; j++) {
+                if (tabla[j] > tabla[j + 1]) {
+                
+                    int temp = tabla[j];
+                    tabla[j] = tabla[j + 1];
+                    tabla[j + 1] = temp;
+                }
+            }
+        }
+
+        System.out.println("Ordenado:");
+        for (int n : tabla) {
+            System.out.println(n);
+        }
     }
 }
+
