@@ -105,7 +105,7 @@ git log
 ### l) Look at code annotations (git blame)
 
 ```bash
-git blame src/Main.java
+git blame src/code1.java
 ```
 
 ---
