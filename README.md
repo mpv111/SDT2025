@@ -25,7 +25,7 @@ git clone https://github.com/mpv111/SDT2025.git
 ### c) Create in the local repo folder an empty Java project
 
 **Screenshot:**  
-![c](screenshots/c.png)
+![c](screenshots/c.PNG)
 
 Created a new Java project in Eclipse (`ProyectoSDT1`) inside the cloned repository folder.
 
