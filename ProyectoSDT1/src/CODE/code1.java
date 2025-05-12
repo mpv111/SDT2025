@@ -22,7 +22,7 @@ public class code1 {
             }
         }
 
-        System.out.println("Ordenado good11:");
+        System.out.println("Ordenado good:");
 
         for (int n : tabla) {
             System.out.println(n);
