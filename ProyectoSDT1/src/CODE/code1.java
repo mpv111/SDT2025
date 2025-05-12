@@ -22,7 +22,7 @@ public class code1 {
             }
         }
 
-        System.out.println("Ordenado:");
+        System.out.println("Ordenado branchA:");
         for (int n : tabla) {
             System.out.println(n);
         }
