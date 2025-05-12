@@ -58,7 +58,7 @@ git commit -m "Added array initialization and print logic"
 ### g) Add more code (initialize table with random values)
 
 **Screenshot:**  
-![g](screenshots/g.png)
+![g](screenshots/g.PNG)
 
 Modified the Java code to fill the array with random values.
 
@@ -94,7 +94,7 @@ git commit -m "Implemented bubble sort"
 ### k) Look at code history (git log)
 
 **Screenshot:**  
-![k](screenshots/k.png)
+![k](screenshots/k.PNG)
 
 ```bash
 git log
@@ -113,7 +113,7 @@ git blame src/Main.java
 ### m) Checkout different revisions
 
 **Screenshot:**  
-![m](screenshots/m.png)
+![m](screenshots/m.PNG)
 
 ```bash
 git checkout <commit_id>
