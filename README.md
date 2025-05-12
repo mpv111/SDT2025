@@ -201,7 +201,7 @@ git merge feature-sorting-enhancement
 
 ### x) Improve code in branch (e.g. changed sorting algorithm)
 
-Modified the sorting algorithm to use `Collections.sort()` on an `ArrayList`.
+Modified the sorting algorithm to use BubbleSort
 
 ---
 
