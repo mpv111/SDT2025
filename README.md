@@ -223,14 +223,18 @@ Shared GitHub link with collaborator access:
 
 ### z1) Try to produce conflict
 
-Two people edited System.out.println("Ordenado:"); on separate branches and pushed.
+Two branches created and edited System.out.println("Ordenado:"); and pushed.
+**Screenshot:**  
+![z1](screenshots/z1.PNG)
 
 ---
 
 ### z2) Solve it and push solution to remote
 
-Solve it in eclipse
+Solved it in eclipse
 
+![z2.1](screenshots/z2.1.PNG)
+![z2.2](screenshots/z2.2.PNG)
 ```bash
 git add .
 git commit -m "resolved merge conflict"
